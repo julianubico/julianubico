@@ -7,9 +7,9 @@ I'm a software developer based in Miami, FL, and currently a Computer Science st
 * ✉️  You can contact me at [julianubico@gmail.com](mailto:julianubico@gmail.com)
 
 ## 📈 Stats
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/d4julian">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=d4julian&hide_rank=true&show_icons=true&theme=dark&line_height=27" alt="Julian's GitHub Stats/>
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/d4julian">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4julian&theme=dark&langs_count=3&hide=css" alt="Julian's GitHub Stats" />
 </a>
