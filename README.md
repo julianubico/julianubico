@@ -11,5 +11,5 @@ I'm a software developer based in Miami, FL, and currently a Computer Science st
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=d4julian&hide_rank=true&show_icons=true&theme=dark&line_height=27" alt="Julian's GitHub Stats/>
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4julian&theme=dark&langs_count=3" alt="Julian's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4julian&theme=dark&langs_count=3&hide=css" alt="Julian's GitHub Stats" />
 </a>
