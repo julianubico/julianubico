@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=26&pause=1000&color=2AFF12&vCenter=true&width=435&lines=Hey+there%2C+I'm+Julian+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I'm a software developer based in Miami, FL, and currently a Computer Science student at the University of Florida. I have a strong passion for software development, problem-solving, and creating impactful tech solutions. My work spans from full-stack development to machine learning, with a focus on clean, scalable code and innovative applications.
+I'm a Computer Science student at the University of Florida. I have a strong passion for software development, problem-solving, and creating impactful tech solutions. My work spans from full-stack development to machine learning, with a focus on clean, scalable code and innovative applications.
 
 * 🌍  I'm based in Miami, FL
 * 🖥️  See my portfolio at [julianubi.co](http://julianubi.co)
