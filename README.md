@@ -8,5 +8,5 @@ I'm a Computer Science student at the University of Florida. I have a strong pas
 
 ## 📈 Stats
 <a href="https://github.com/julianubico">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianubico&hide_rank=true&show_icons=true&theme=dark&line_height=27" alt="Julian's GitHub Stats/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianubico&hide_rank=true&show_icons=true&theme=dark&line_height=27" alt="Julian's GitHub Stats" />
 </a>
